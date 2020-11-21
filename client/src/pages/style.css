@@ -1,0 +1,88 @@
+.suns {
+    background: rgb(95,37,159);
+    background: radial-gradient(circle, rgba(95,37,159,1) 0%, rgba(254,80,0,1) 100%);
+}
+
+.sundevils {
+    background: rgb(140,29,64);
+    background: radial-gradient(circle, rgba(140,29,64,1) 35%, rgba(255,198,39,1) 100%);
+}
+
+.cardinals {
+    background: rgb(0,0,0);
+    background: radial-gradient(circle, rgba(0,0,0,1) 0%, rgba(151,35,63,1) 100%);
+}
+
+.dbacks {
+    background: rgb(139,99,75);
+    background: radial-gradient(circle, rgba(139,99,75,1) 8%, rgba(0,95,97,1) 55%, rgba(95,37,159,1) 100%);
+}
+
+.color3 {
+    color: rgb(254,80,0);
+    font-family:'Permanent Marker', cursive;
+}
+
+.color4 {
+    color: black;
+    font-family:'Permanent Marker', cursive;
+}
+
+.carousel-item {
+    margin-top: 50px;
+    width: 60%;
+    color: rgb(0,0,0);
+}
+
+.mainContainer {
+    height:90vh;
+    margin-top:50px;
+    display: flex;
+    align-content: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.carousel-item {
+    align-content: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+img {
+    border-width: 5px;
+    border:solid;
+    border-color: black;
+}
+
+.cardMarginTop {
+    margin-top: 15px;
+    font-family:'Permanent Marker', cursive;
+}
+
+p {
+    font-size:22px;
+}
+
+.group {
+    display: inline-flex;
+    align-content: center;
+    height: 65vh;
+    margin-top: 45px;
+
+    margin-left: 200px;
+    margin-right: 200px;
+    background-color: white;
+    border: solid;
+}
+
+.family {
+    height: 57vh;
+    margin: 25px;
+}
+
+.right {
+    background-color: white;
+    height: 57vh;
+    margin: 28px;
+}

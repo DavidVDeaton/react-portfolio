@@ -1,0 +1,27 @@
+.navbarBottom {
+    width:100%;
+    height:60px;
+    font-size:24px;
+    font-family:'Permanent Marker', cursive;
+    background-color: rgb(95,37,159);
+}
+
+.ul1 {
+    margin-left: auto;
+    margin-right: 35px;
+}
+
+.ulmid {
+    margin-left: 35px;
+    margin-right: 35px;
+}
+
+.ul4 {
+    margin-left: 35px;
+    margin-right: auto;
+}
+
+
+
+
+
